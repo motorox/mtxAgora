@@ -82,3 +82,8 @@ http://devdungeon.com/content/working-files-go
 http://devdungeon.com/
 http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket
 https://www.github.com/NanoDano/reference
+
+
+### Other links
+
+http://goangularjs.blogspot.ro/
