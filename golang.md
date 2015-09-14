@@ -51,6 +51,7 @@ https://gobyexample.com/
 http://www.golang-book.com/
 https://github.com/dariubs/GoBooks
 http://2014.dotgo.eu/
+https://github.com/GitbookIO
 
 ##Libs:
 https://github.com/facebookgo
