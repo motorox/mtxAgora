@@ -2,3 +2,5 @@
 - http://vim.wikia.com/wiki/Example_vimrc
 - http://vim.wikia.com/wiki/Open_vimrc_file
 - https://amix.dk/vim/vimrc.html
+- http://openvim.com/development.html
+- 
