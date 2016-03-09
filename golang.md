@@ -52,6 +52,7 @@ http://www.golang-book.com/
 https://github.com/dariubs/GoBooks
 http://2014.dotgo.eu/
 https://github.com/GitbookIO
+https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details
 
 ##Libs:
 https://github.com/facebookgo
