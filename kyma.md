@@ -39,7 +39,13 @@ both kyma commands probably will need sudo rights. Do it with the following:
 '''
 #usermod -aG sudo <username>
 '''
-
+### Network error issue in browser
+  check the troubleshooting
+  - install certutils command:
+  '''
+  apt-get update       
+  apt-get install libnss3-tools
+  '''
 
 ### Links
 
