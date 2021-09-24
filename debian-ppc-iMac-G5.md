@@ -1,5 +1,17 @@
 # Install Debian on iMag G5
 
+After Debian 10 was not supporting anymore ppc64, the ISO is here:
+- https://cdimage.debian.org/cdimage/ports/snapshots/2021-09-23/
+or search one folder up for the latest ISO.
+
+Then:
+- https://people.debian.org/~glaubitz/
+- https://people.debian.org/~glaubitz/sources.list -> to be used after install
+- http://flashner.co.il/debian sid/non-free powerpc Packages
+- https://wiki.debian.org/Firmware 
+- https://cdimage.debian.org/cdimage/unofficial/non-free/firmware/ -> needed for non free hardware
+
+### old stuff.
 I struggled 2 weeks until i got it running.
 
 Take the latest Debian ppc distro, not ppc64el. Ppc64el is for intel ppc with little endian.
