@@ -1,5 +1,15 @@
 # Install Debian on iMag G5
 
+## Latest addition
+
+Found the video below. It explains how to install the latest iso (deb 11) on G5.
+Also tackilng the GRUB error.
+- https://www.youtube.com/watch?v=g-Ugfqj1ank
+- https://tinkerdifferent.com/
+- https://www.powerprogress.org/en/
+- https://forums.macrumors.com/threads/debian-sid-installation-guide-powerpc.2146795/
+
+------------------------------------------------------------------
 After Debian 10 was not supporting anymore ppc64, the ISO is here:
 - https://cdimage.debian.org/cdimage/ports/snapshots/2021-09-23/
 or search one folder up for the latest ISO.
