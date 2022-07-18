@@ -2,6 +2,8 @@
 # PI
 
 Card crashes after some time, due to hardware failure. Make readonly FS.
+https://mlagerberg.gitbooks.io/raspberry-pi/content/3.6-some-useful-commands.html
+https://mlagerberg.gitbooks.io/raspberry-pi/content/
 
 ## PIVPN
 Acesta este serviciul de VPN de pe Raspberry http://www.pivpn.io/
