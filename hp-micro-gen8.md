@@ -14,6 +14,7 @@ Here are the steps:
 The easiest way to do this is to just install a latest version of Debian with GRUB2 and let it be the default boot loader. You can easily make changes in the future and it's so simple and quick to set up.
 
 ### Install TrueNAS on SDD
+___UPDATE___: if there is an error while booting, after some years :), maybe the BIOS battery died. You just have to change it, and set in BIOS the AHCI mode.
 * Set your BIOS to AHCI
     * The first thing to do is install TrueNAS (used Truenas-12.0-U8.iso) on the 5th SATA port. The key to this is to have it be the only drive plugged into the system and it'll boot fine. Remove the front drives, all USB, etc
     * I just installed TrueNAS this way, using an USB stick on the external port and it ran perfectly in AHCI mode.
